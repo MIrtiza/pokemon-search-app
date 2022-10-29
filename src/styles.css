@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+select {
+  padding: 10px 40px 10px 10px;
+  font-size: 23px;
+  text-align: left;
+}
+.card {
+  width: 300px;
+  min-height: 300px;
+  border: 1px solid blue;
+  margin: 10px auto;
+  padding: 20px;
+}
+img {
+  background-color: aquamarine;
+  min-width: 150px;
+  min-height: 150px;
+}
+p {
+  font-weight: bold;
+}
